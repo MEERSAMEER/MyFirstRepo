@@ -1,5 +1,5 @@
 <html>
 <body>
-<h1>My First Heading</h1>
+<h1>WELCOME TO DEVOPS LAB</h1>
 </body>
 </html>
